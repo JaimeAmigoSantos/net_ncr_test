@@ -1,0 +1,8 @@
+C:\MqttClient\MqttClientApp\MqttClientApp\obj\Debug\MqttClientApp.csprojAssemblyReference.cache
+C:\MqttClient\MqttClientApp\MqttClientApp\obj\Debug\MqttClientApp.csproj.CoreCompileInputs.cache
+C:\MqttClient\MqttClientApp\MqttClientApp\bin\Debug\MqttClientApp.exe.config
+C:\MqttClient\MqttClientApp\MqttClientApp\bin\Debug\MqttClientApp.exe
+C:\MqttClient\MqttClientApp\MqttClientApp\bin\Debug\MqttClientApp.pdb
+C:\MqttClient\MqttClientApp\MqttClientApp\obj\Debug\MqttClientApp.csproj.CopyComplete
+C:\MqttClient\MqttClientApp\MqttClientApp\obj\Debug\MqttClientApp.exe
+C:\MqttClient\MqttClientApp\MqttClientApp\obj\Debug\MqttClientApp.pdb
